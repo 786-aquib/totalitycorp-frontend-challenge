@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://vercel.com/786-aquib/totalitycorp-frontend-challenge/F6XkJNDkHrSriSHNcWYajKiHhuQV
 
 ## Features
 
@@ -24,7 +24,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/786-aquib/totalitycorp-frontend-challenge
 ```
 
 Go to the project directory
